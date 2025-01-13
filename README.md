@@ -7,8 +7,8 @@ I’m a final-year student aspiring to become a **Data Engineer**. I love workin
 - 📅 **When?**: A college placement tracking app to streamline the placement process for students and administrators.
 
 ## 🛠️ Tech Stack
-- **Languages**: Python, Java, JavaScript  
-- **Frameworks & Libraries**: Express.js, Node.js, React.js, FastAPI, Flask, Django  
+- **Languages**: Python, JavaScript, Java
+- **Frameworks & Libraries**: Express.js, Node.js, React.js, FastAPI
 - **Databases**: MongoDB, MySQL, PostgreSQL  
 - **Tools & Platforms**: Microservices, Backend, AWS, Figma  
 
