@@ -5,6 +5,7 @@ I’m a final-year student aspiring to become a **Data Engineer**. I love workin
 ## 🚀 Current Projects
 - 🌊 **Resq**: A flood management app designed to assist in disaster response and relief operations.  
 - 📅 **When?**: A college placement tracking app to streamline the placement process for students and administrators.
+- 💊 **Mediplus**: A automated medicine dispensing application to streamline the pharmacist workflow and manage thier inventory.
 
 ## 🛠️ Tech Stack
 - **Languages**: Python, JavaScript, Java
